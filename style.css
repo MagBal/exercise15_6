@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Rubik:400,700,900');
+
+body {
+	background-color: #4169E1;
+	margin: 0 auto;
+	font-family: 'Rubik', sans-serif;
+	padding-top: 100px;
+}
+.controls {
+	text-align: center;
+}
+a {
+	background-color: #000080;
+	color: #FFF;
+	font-weight: 700;
+	font-size: 20px;
+	text-decoration: none;
+	text-transform: uppercase;
+	border-radius: 3px;
+	padding: 20px;
+	margin-bottom: 50px;
+	border: 2px solid #00BFFF;
+}
+#start {
+	margin-right: 20px;
+}
+a:hover {
+	background-color: #00BFFF;
+	opacity: 0.9;
+}
+.stopwatch {
+	text-align: center;
+	margin: 0 auto;
+	font-size: 	50px;
+	color: #FFF;
+	letter-spacing: 4px;
+	padding-top: 100px;
+}	
+
